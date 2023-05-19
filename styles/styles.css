@@ -1,0 +1,38 @@
+h1 {
+  color: blue;
+}
+
+th,
+td {
+  color: red;
+}
+
+.cool-td {
+  color: cyan;
+}
+
+#cool-td {
+  color: olivedrab; /* !important */
+}
+
+.container {
+  background-color: lightgray;
+  min-height: 10vh;
+  width: 400px;
+  border-radius: 15px;
+  margin-top: 2rem;
+  font-size: 20px;
+}
+
+html {
+  font-size: 30px;
+  /* font-size: 62.5%; */
+}
+
+.child1 {
+  font-size: 1.5em;
+}
+
+.child2 {
+  font-size: 1.5rem;
+}
